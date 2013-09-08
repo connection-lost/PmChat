@@ -1,0 +1,6 @@
+name: PmChat
+main: me.crafter.mc.pmchat.PmChat
+version: 1.0
+description: >
+             Display the message to the player who sends a pm.
+commands:
